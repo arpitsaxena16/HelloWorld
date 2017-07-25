@@ -1,0 +1,3 @@
+enum City {
+	PUNE, MUMBAI, DELHI, INDORE, CHENNAI
+}
