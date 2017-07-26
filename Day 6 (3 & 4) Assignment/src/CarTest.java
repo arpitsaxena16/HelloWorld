@@ -7,6 +7,8 @@ public class CarTest {
 
     public static void main(String[] args) {
 
+
+
         CarBrandComparator brandComparator = new CarBrandComparator();
         CarIdComparator idComparator = new CarIdComparator();
 
