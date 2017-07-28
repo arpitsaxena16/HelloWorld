@@ -4,6 +4,9 @@ import java.util.List;
 
 /**
  * Created by katkhedd on 7/25/2017.
+ * Problem Statement : Write a program which will hold salary of 10 employees
+ and will increase(by 20%) of those employees where salary
+ is less then 20000.00
  */
 public class EmployeeTest {
     public static void main(String[] args) {

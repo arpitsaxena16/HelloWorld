@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day 8 Assignment.iml" filepath="$PROJECT_DIR$/Day 8 Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOApi2/IOApi2.iml" filepath="$PROJECT_DIR$/IOApi2/IOApi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IoApi/IoApi.iml" filepath="$PROJECT_DIR$/IoApi/IoApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization Problem/Serialization Problem.iml" filepath="$PROJECT_DIR$/Serialization Problem/Serialization Problem.iml" />
+    </modules>
+  </component>
+</project>

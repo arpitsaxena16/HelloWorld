@@ -1,5 +1,25 @@
 /**
  * Created by katkhedd on 7/25/2017.
+ * Problem Statement : Write a class EmployeeService as follows :
+
+ fields :
+ empId:int
+ name:String
+ salary:double
+ phone:String
+ desig:String
+ methods:
+ all get/set pairs
+ updateSalary()
+ eligibleForPromotion()
+ calculateTDS()
+ changeProject()
+ changeDesignation()
+
+ TBD - Check whether this class breaks SRP if yes, then refactor
+ this class among multiple classes with correct and meanigful
+ names and move corresponding methods in the right classes.
+
  */
 public class Test {
 

@@ -4,6 +4,10 @@ import java.util.List;
 
 /**
  * Created by katkhedd on 7/25/2017.
+ * Problem Statement : Write a program which will hold salary of 10 employees
+ and will calculate their hra(30%) of salary and display
+ on console.
+
  */
 public class EmployeeTest {
     public static void main(String[] args) {
