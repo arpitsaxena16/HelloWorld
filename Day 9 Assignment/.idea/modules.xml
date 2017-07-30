@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayAPI/ArrayAPI.iml" filepath="$PROJECT_DIR$/ArrayAPI/ArrayAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator API/Calculator API.iml" filepath="$PROJECT_DIR$/Calculator API/Calculator API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9 Assignment.iml" filepath="$PROJECT_DIR$/Day 9 Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageSendingAPI/MessageSendingAPI.iml" filepath="$PROJECT_DIR$/MessageSendingAPI/MessageSendingAPI.iml" />
+    </modules>
+  </component>
+</project>
