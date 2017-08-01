@@ -13,7 +13,12 @@ import java.util.*;
 public class CarTest {
 
     public static void main(String[] args) {
-
+        /**
+         * Arpit's Comments: 
+         * 1) It will still allow duplicate cars, try inserting same details for two cars and it will accept.
+         * Find out why, also override proper methods in Car.java so that the last requirement is satisfied.
+         * 2) Please take care of formatting so that the code is more readable.
+         */
 
         Set<Car> cars = new TreeSet<>();
                createData(cars);
