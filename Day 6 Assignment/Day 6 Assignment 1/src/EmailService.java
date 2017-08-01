@@ -1,4 +1,10 @@
 /**
+* Arpit's Comments: 
+* 1) Add proper comments to each method, to explain what it is doing (you can use shortcuts to add method level comments and the just add the details.
+* 2) Add proper access qualifier to each method, as of now each method is default, which is not a good practice.
+*/
+
+/**
  * Created by katkhedd on 7/25/2017.
  */
 class EmailService{
