@@ -34,6 +34,11 @@ public class EmployeeTest {
                 e.setSalary(e.getSalary()+(e.getSalary()*0.20));
 
             };
+         /**
+         * Arpit's Comments: 
+         * 1) Is it compiling? if block is not ended by a ";"
+         * 2) See if we can use for each loop here as well? If not, then find out why?
+         */
 
         }
         Iterator<Employees> e = emp.iterator();
