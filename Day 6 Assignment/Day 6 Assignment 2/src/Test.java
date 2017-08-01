@@ -28,7 +28,10 @@ public class Test {
 
         EmployeeService emp = new EmployeeService(122, "Dipali", 40000, "9830278722", "Graduate traniee G");
 
-
+        /**
+         * Arpit's Comments: 
+         * 1) Please format properly, so many unnecessary blank lines. 
+         */
         double newSalary = emp.updateSalary(emp.getSalary());
         System.out.println("New salary : " + newSalary);
 
