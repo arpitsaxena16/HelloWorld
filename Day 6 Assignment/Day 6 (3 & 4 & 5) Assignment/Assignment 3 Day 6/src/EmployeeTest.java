@@ -28,8 +28,14 @@ public class EmployeeTest {
         emp.add(new Employees(11,55000.00));
 
         Iterator<Employees> itr = emp.iterator();
-
-        while(itr.hasNext()) {
+        /**
+         * Arpit's Comments: 
+         * 1) Try to solve this problem without using second loop and second list.
+         * Do we require interator here? Can we solve this problem using "for each" loop -- read about it and see how can we use it here.
+         * Also read when it is necessary to use interator and where we can simply use "for each" loop only.
+         */
+        
+     while(itr.hasNext()) {
             Employees e = itr.next();
             hra.add(e.getSalary()*0.3);
 
