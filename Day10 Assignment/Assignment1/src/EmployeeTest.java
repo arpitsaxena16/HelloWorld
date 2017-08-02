@@ -32,7 +32,10 @@ public class EmployeeTest {
                 new Employee(84, "Priyal", 66000),
                 new Employee(39, "Diksha", 68000)
         );
-
+            /**
+            * Arpit's Comments:
+            * You added only some details, assignment asks for 50 employees atleast.
+            */
 
         Double result = empList.stream()
                 .filter((empList1) -> empList1.getSalary() > 50000)
