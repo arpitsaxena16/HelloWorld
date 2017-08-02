@@ -1,6 +1,12 @@
 /**
  * Created by katkhedd on 7/29/2017.
  */
+
+           /**
+            * Arpit's Comments:
+            * Make a habit to override equals and hashcode methods. :)
+            */
+            
 public class Employee {
     int id;
     String name;
