@@ -10,7 +10,8 @@ public class Cinema extends MovieService{
             /**
             * Arpit's Comments:
             * Why should we extens the MoviService class? Is Cinema is of MovieService type?
-            * There is no IS-A relation between both, hence it should be a simple object inside it and using which these methods should be called.
+            * There is no IS-A relation between both, hence it should be a simple object or class name (when the method is static
+            * inside it and using which these methods should be called.
             * Please read about IS-A and HAS-A relationship in Java.
             */
             buy(user1,2500);
